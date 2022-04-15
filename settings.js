@@ -45,7 +45,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 */
 
 // Lainnya
-global.sessionName = 'session'
+global.sessionName = 'wz'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 
